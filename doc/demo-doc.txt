@@ -13,7 +13,7 @@ Demo Program Description
 
 Repository:  <http://source.retro-basic.net/ecma55.demo>
 File:        /doc/demo-doc.txt//
-Version:     01.00!00
+Version:     01.00.00
 Compliance:  Retro-Frame 1.0
 License:     MIT
 
@@ -43,9 +43,9 @@ SOFTWARE.
 Change history
 -------------------------------------------------------------------------------
 
-2026-02-16 : 01.00!00 : Ingo
+2026-04-12 : 01.00.00 : Ingo
 
-  Draft.
+  Initial version.
 
 
 Contents
@@ -83,7 +83,8 @@ Development of this software is subject to Retro-BASIC and complies to the
 1.2 Scope
 -------------------------------------------------------------------------------
 
-This document provides a description of each demo program.
+This document provides a description of each ECMA-55 Minimal BASIC demo
+program.
 
 
 1.3 References
