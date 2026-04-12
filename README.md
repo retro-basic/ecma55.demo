@@ -2,7 +2,7 @@
 
 **Endeavor: Retro-BASIC**  
 **Repository: \<[http://source.retro-basic.net/ecma55.demo](http://source.retro-basic.net/ecma55.demo)\>**  
-**Version: 1.0.0 **  
+**Version: 1.0.0**  
 **Environments: ECMA55 (Minimal BASIC)**  
 **Compliance: Retro-Frame 1.0**  
 **License: MIT (see `LICENSE`)**  
